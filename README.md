@@ -1,5 +1,9 @@
 # M5 - BandKamp Generic View
 
+## Url úteis
+url Base: https://m5-bandkamp-generic-view-rogermferr.vercel.app/
+Documentação: https://m5-bandkamp-generic-view-rogermferr.vercel.app/api/docs/swagger-ui/
+
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
